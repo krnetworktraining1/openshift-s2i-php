@@ -18,7 +18,7 @@
   </head>
 
   <body>
-    <?php echo "<h1> Hello World! </h1>"; ?>
+    <?php echo "<h1> Welcome To KRnetwork version3</h1>"; ?>
     
     <?php phpinfo(); ?>
   </body>
