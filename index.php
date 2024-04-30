@@ -1,7 +1,7 @@
 <html>
 
   <head>
-    <title>Hello World!</title>
+    <title>Welcome To KRNetwork</title>
     <style>
       h1 {
         text-align: center;
